@@ -44,7 +44,7 @@ Follow these steps to run the application:
 
 ## Example Usage
 
-![image](https://github.com/user-attachments/assets/be2f84c9-b76b-4964-aaf2-4f5658fb4306)
+![image](https://github.com/user-attachments/assets/bf626676-d8e3-4c8e-95a6-27fb09c60d6c)
 
 ---
 
