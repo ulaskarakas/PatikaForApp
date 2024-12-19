@@ -31,7 +31,7 @@ namespace PatikaForApp
             {
                 if (i % 2 == 0)
                 {
-                    Console.Write(i);
+                    Console.WriteLine(i);
                 }
                 else
                 {
